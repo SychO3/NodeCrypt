@@ -13,7 +13,7 @@ const LANGUAGES = {
 			'meta.description': 'SecureChat - a true end-to-end encrypted chat system, no database, all messages are encrypted locally, the server only does encrypted data relay.',
 			'meta.keywords': 'End-to-End Encryption, Security, Chat, WebSocket, Anonymous Communication, AES, ECDH, RSA, ChaCha20, Security, SecureChat, SychO',
 			'meta.og_title': 'SecureChat - End-to-End Encrypted Chat System',
-			'meta.og_description': 'SecureChat is a zero-knowledge, end-to-end encrypted open source chat system where all encryption and decryption is done locally on the client side, and servers cannot access plaintext. Supports multi-platform deployment, secure, anonymous, no message history.',
+			'meta.og_description': 'SecureChat is an end-to-end encrypted open source chat system , all encryption and decryption is done locally on the client , the server can not get the plaintext . Secure , anonymous , no history of messages.',
 			'meta.twitter_title': 'SecureChat - End-to-End Encrypted Chat System',
 			'meta.twitter_description': 'SecureChat is a zero-knowledge, end-to-end encrypted open source chat system where all encryption and decryption is done locally on the client side, and servers cannot access plaintext.',
 			
@@ -140,7 +140,7 @@ const LANGUAGES = {
 			'meta.description': 'SecureChat - 真正的端到端加密聊天系统，无数据库，所有消息本地加密，服务器仅做加密数据中转。',
 			'meta.keywords': '端到端加密, 安全, 聊天, WebSocket, 匿名通信, AES, ECDH, RSA, ChaCha20, 安全, SecureChat, SychO',
 			'meta.og_title': 'SecureChat - 端到端加密聊天系统',
-			'meta.og_description': 'SecureChat 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。支持多平台部署，安全、匿名、无历史消息。',
+			'meta.og_description': 'SecureChat 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。安全、匿名、无历史消息。',
 			'meta.twitter_title': 'SecureChat - 端到端加密聊天系统',
 			'meta.twitter_description': 'SecureChat 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。',
 			
